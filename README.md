@@ -79,6 +79,6 @@ para Responder alguém Vá na postagem > Clique em quote reply > e deixe sua res
 [Acesse a aula para dúvidas](https://www.youtube.com/watch?v=LntSB-gl-ZI&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=10)
 
 Material da Aula: 
-[Aqui](github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
+[Aqui](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
 
 Créditos: [Perfil do Guanabara](github.com/gustavoguanabara)
