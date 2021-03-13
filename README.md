@@ -81,4 +81,4 @@ para Responder alguém Vá na postagem > Clique em quote reply > e deixe sua res
 Material da Aula: 
 [Aqui](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
 
-Créditos: [Perfil do Guanabara](github.com/gustavoguanabara)
+Créditos: [Perfil do Guanabara](https://github.com/gustavoguanabara)
