@@ -69,10 +69,10 @@ Na prática:
 
 
 Achar EMOJIS: (use dois pontos `:` para chamar emojis) 
-[Clica aqui](github.com/ikatyang/emoji-cheat-sheet)
+[Clica aqui](https://github.com/ikatyang/emoji-cheat-sheet)
 
 Copie aqui para deixar emoji no inicio da Issue: 
-[Clica aqui](emojipedia.org) 
+[Clica aqui](https://emojipedia.org/) 
 
 para Responder alguém Vá na postagem > Clique em quote reply > e deixe sua resposta. 
 
